@@ -1,0 +1,182 @@
+.main{
+    background-color: black;
+    height: 900px;
+    width: 900px;
+}
+.result{
+    background-color: gray;
+    height: 200px;
+}
+.figure{
+    padding: 30px;
+    display: flex;
+    justify-content: end;
+    height: 300px;
+    font-size: 30px;
+    font-weight: 100px
+}
+.butbox1{
+    display: flex;
+    justify-content: space-evenly
+}
+.cancel{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.plus{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.percent{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.divide{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    background-color: yellow;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.butbox2{
+    display: flex;
+    justify-content: space-evenly
+}
+.cancel1{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.plus1{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.percent1{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.divide1{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    background-color: yellow;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.butbox3{
+    display: flex;
+    justify-content: space-evenly
+}
+.cancel2{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.plus2{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.percent2{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.divide2{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    background-color: yellow;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.butbox4{
+    display: flex;
+    justify-content: space-evenly
+}
+.cancel3{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.plus3{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.percent3{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.divide3{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    background-color: yellow;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.butbox5{
+    display: flex;
+    justify-content: space-evenly
+}
+.cancel4{
+    height: 100px;
+    width: 300px;
+    border-radius: 200px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.plus4{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.percent4{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    font-size: 35px;
+    font-weight: 100px;
+}
+.divide4{
+    height: 100px;
+    width: 100px;
+    border-radius: 400px;
+    background-color: yellow;
+    font-size: 35px;
+    font-weight: 100px;
+}
